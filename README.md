@@ -5,6 +5,7 @@
 공강 시간이나 팀 프로젝트, 자율 학습을 위한 공간을 쉽게 찾을 수 있도록 개발한 서비스입니다.
 
 > 실제 학생들을 대상으로 운영되었으며, 지역 언론 기사에 소개된 프로젝트입니다.
+> Backend 개발, 데이터베이스 설계 및 데이터 관리를 담당했습니다.
 
 ## 프로젝트 소개
 
@@ -17,11 +18,11 @@
 
 ### 김민석 (Backend)
 
-- NestJS 기반 REST API 개발
+- NestJS 기반 REST API 설계 및 개발
 - MySQL 데이터베이스 설계
-- AWS 서버 배포 및 운영
-- 서비스 유지보수
-
+- 강의실 및 시간표 데이터 관리 로직 구현
+- 데이터 수집 및 업데이트
+- Backend 아키텍처 설계
 ## 기술 스택
 
 ### Backend
@@ -53,5 +54,5 @@
 
 
 ## 언론 기사
-[https://mdj.nocutnews.co.kr/news/6333115](https://www.yna.co.kr/view/AKR20250430133200063)
-[https://www.newsis.com/view/NISX20250430_0003160277]
+- [한남대 학생들이 만든 공강룸 서비스 (노컷뉴스)](https://mdj.nocutnews.co.kr/news/6333115)
+- [공강룸 서비스 소개 기사 (연합뉴스)](https://www.newsis.com/view/NISX20250430_0003160277)
