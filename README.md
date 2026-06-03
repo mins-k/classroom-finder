@@ -50,9 +50,21 @@
 - 실제 학생 대상 서비스 운영
 - 학교 커뮤니티 및 학과 사무실 홍보
 - 지역 언론 기사 소개
-- AWS 배포 및 운영 경험
-
 
 ## 언론 기사
 - [한남대 학생들이 만든 공강룸 서비스 (노컷뉴스)](https://mdj.nocutnews.co.kr/news/6333115)
 - [공강룸 서비스 소개 기사 (연합뉴스)](https://www.newsis.com/view/NISX20250430_0003160277)
+
+## 프로젝트 화면
+
+### 메인 화면
+
+![메인화면](./docs/classroomfinder1.png)
+
+### 강의실 검색 화면
+
+![검색화면](./docs/classroomfinder2.png)
+
+### 강의실 시간표 화면
+
+![시간표화면](./docs/classroomfinder3..png)
